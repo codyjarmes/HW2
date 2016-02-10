@@ -1,0 +1,68 @@
+
+body {
+	background-color:#FFFF99;
+	
+	
+}
+
+header {
+	margin-top:10px;
+	overflow:hidden;
+}
+
+#gallery {
+	text-align:center;
+		
+}
+
+#wrap {
+	background-color: #FFFFFF; 
+	margin:0 auto; 
+	width:95%; 
+	text-align:left; 
+	border: 5px solid black; 
+	}
+	
+	ul #menubar { 
+	list-style-type:none; 
+	margin: 0 auto; 
+	padding: 0px;
+}
+
+#menubar li { 
+	display:block; 
+	float:middle; 
+	font-weight:bold; 
+	text-decoration: underline;
+	text-align:center; 
+	font-variant:normal;
+	padding:5px; 
+	
+}
+
+#menubar a { padding: 10px 10px; }
+
+		
+#menubar a:link, #navlist a:visited { 
+	color: #FFFFFF; 
+	background-color:Black 
+	text-decoration: none; 
+	}
+	
+h1 {text-align:center;}
+
+table {
+
+text-align:center;
+ left: 0;
+ margin: auto;
+ position: middle;
+
+
+ }
+
+
+
+
+
+
